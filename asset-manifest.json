@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learnReact/static/css/main.b85ea100.chunk.css",
+    "main.js": "/learnReact/static/js/main.641505a4.chunk.js",
+    "main.js.map": "/learnReact/static/js/main.641505a4.chunk.js.map",
+    "runtime-main.js": "/learnReact/static/js/runtime-main.0fcc0c7d.js",
+    "runtime-main.js.map": "/learnReact/static/js/runtime-main.0fcc0c7d.js.map",
+    "static/js/2.b7351722.chunk.js": "/learnReact/static/js/2.b7351722.chunk.js",
+    "static/js/2.b7351722.chunk.js.map": "/learnReact/static/js/2.b7351722.chunk.js.map",
+    "index.html": "/learnReact/index.html",
+    "precache-manifest.260a69bb654a6aae50d044d615a9332a.js": "/learnReact/precache-manifest.260a69bb654a6aae50d044d615a9332a.js",
+    "service-worker.js": "/learnReact/service-worker.js",
+    "static/css/main.b85ea100.chunk.css.map": "/learnReact/static/css/main.b85ea100.chunk.css.map",
+    "static/js/2.b7351722.chunk.js.LICENSE.txt": "/learnReact/static/js/2.b7351722.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fcc0c7d.js",
+    "static/js/2.b7351722.chunk.js",
+    "static/css/main.b85ea100.chunk.css",
+    "static/js/main.641505a4.chunk.js"
+  ]
+}
